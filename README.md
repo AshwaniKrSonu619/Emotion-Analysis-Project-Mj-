@@ -10,14 +10,19 @@ Back then by time Charles Darwin said that emotions are developed by time becaus
 
 The main three concepts of emotion analysis projects is – 
 a) Subjective experience
- b) physiological responce 
+
+b) physiological responce 
+ 
 c) Behavioral or expressive 
- The fundamentals of emotion analysis project is charcterized by feeling joy, satisfaction, and well-being.
+ 
+The fundamentals of emotion analysis project is charcterized by feeling joy, satisfaction, and well-being.
 We can generalize the emotion detection steps as follows: 
+
 1) Dataset preprocessing  
 2) Face detection 
 3) Feature extraction
- 4) Classification based on the features
+4) Classification based on the features
+ 
  In this work, we focus on the feature extraction technique and emotion detection based on the extracted features. Section 2 focuses on some important features related to the face. Section 3 gives information on the related work done in this field. Related work covers many of the feature extraction techniques used until now. It also covers some important algorithms which can be used for emotion detection in human faces. We will also see details of  the tools and libraries used in the implementation.
 
 Face detection is a computer technology being used in a variety of applications that identifies human faces in digital images. Face detection also refers to the psychological process by which humans locate and attend to faces in a visual scene.

@@ -70,7 +70,7 @@ The result obtained from the proposed model gives the estimated  emotion predict
 **Future Scope**
 
 
-Companies across the world are harnessing the power of emotional intelligence to improve their business processes. What we have seen here is just a snippet of the true potential of emotion analytics. The future of sentiment analysis is going to continue to dig deeper, far past the surface of the number of likes, comments and shares, and aim to reach, and truly understand, the significance of social media interactions and what they tell us about the consumers behind the screens
+Companies across the world are harnessing the power of emotional intelligence to improve their business processes. What we have seen here is just a snippet of the true potential of emotion analytics. The future of sentiment analysis is going to continue to dig deeper, far past the surface of the number of likes, comments and shares, and aim to reach, and truly understand, the significance of social media interactions and what they tell us about the consumers behind the screens.
 
 
 https://www.dropbox.com/s/raw/nilt43hyl1dx82k/dataset.zip

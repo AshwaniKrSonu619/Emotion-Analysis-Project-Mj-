@@ -62,9 +62,14 @@ An important development in digital image compression technology was the discret
  
  ![Screenshot (71)](https://user-images.githubusercontent.com/94763917/176969094-81f34f31-16b7-443b-a3e5-cb2a34243050.png)
 
-![Screenshot (80)](https://user-images.githubusercontent.com/94763917/176969160-2c1c2d73-d59a-4dfa-a9f0-c0f7be55f829.png)
 
-![Screenshot (83)](https://user-images.githubusercontent.com/94763917/176969203-2054265c-b507-498b-ad31-e31860bee661.png)
+![Screenshot (81)](https://user-images.githubusercontent.com/94763917/176969450-3479f69f-caaa-40cf-9a38-383c8cbe0f73.png)
+
+
+![Screenshot (83)](https://user-images.githubusercontent.com/94763917/176969487-21aee68c-38bc-4138-84fb-6c2515c60f3e.png)
+
+
+
 
 
 
